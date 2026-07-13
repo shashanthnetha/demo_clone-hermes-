@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "new",
+    "kind": "folder"
+  },
+  "apps": [
+    {
+      "id": "app",
+      "name": "new",
+      "folder": ".",
+      "framework": "Unknown",
+      "platform": "web",
+      "default": true
+    }
+  ]
+}

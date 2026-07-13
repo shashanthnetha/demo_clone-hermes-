@@ -1,0 +1,25 @@
+html {
+  background: #0000f2;
+  overflow-x: clip;
+}
+
+body {
+  margin: 0;
+  background: #0000f2;
+  color: #f5f5f5;
+}
+
+body main {
+  background: #0000f2;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.hw-dropdown {
+  --hermes-dropdown-bg: #0000f2;
+  --hermes-dropdown-fg: #f5f5f5;
+  --hermes-dropdown-hover: rgba(245, 245, 245, 0.12);
+  --hermes-outline-inset: inset 0 0 0 1px rgba(245, 245, 245, 0.25);
+}
